@@ -14,4 +14,9 @@ My hobbies are sports and traveling. I like various sports such as soccer, swimm
 Lastly, I want to make good memories with many people through this SEA:ME program.
 ## Project Links:
 - ![Hanbin's SEA:ME repositories.](https://github.com/YEOHANBIN/SEA-ME-Students.git)
-- ![DES-Instrument Cluster](https://github.com/Instrument-Cluster-Team7/DES_Instrument-Cluster-Team7.git)
+- ![DES - Instrument Cluster](https://github.com/Instrument-Cluster-Team7/DES_Instrument-Cluster-Team7.git)
+- ![DES - Head Unit](https://github.com/Head-Unit-Team1/Head-Unit-Team1.git)
+- ![DES - Parking Distance Control(PDC)](https://github.com/PDC-Team1/PDC_main.git)
+- ![MCS - Secure OTA](https://github.com/MCS-OTA/OTA_main.git)
+- ![Eclipse SDV Hackthon](https://github.com/Eclipse-SDV-Hackathon-Chapter-Two-APT/APT.git)
+
