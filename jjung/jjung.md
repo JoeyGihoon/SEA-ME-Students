@@ -13,3 +13,4 @@
 - https://github.com/JunSpring/SEA-ME-warm-up
 - https://github.com/Instrument-Cluster-Team7/DES_Instrument-Cluster-Team7
 - https://github.com/Head-Unit-Team1/Head-Unit-Team1
+- https://github.com/ADS-Truck-Platooning/ADS_Truck-Platooning
