@@ -1,5 +1,5 @@
 # Gihoon Kim (GHKim)
-## Profile Pic: ![alt text](image-1.png)
+## Profile Pic: ![alt text](image.png)
 ## Call me by this name: Joey
 ## Cohort: July 2025
 ## Email ID: gihoon00@gmail.com
