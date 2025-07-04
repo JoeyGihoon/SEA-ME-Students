@@ -9,7 +9,5 @@
 ## About me: 
 - I'm majoring Automobile Engineering & IT Convergence in Kookmin univ. Korea. Nice to meet you :)
 ## Project Links:
-- Warmup
-- https://github.com/JoeyGihoon/SEA-ME-Warmup/tree/main/Module00
-- https://github.com/JoeyGihoon/SEA-ME-Warmup/tree/main/Module01
+- Warmup: https://github.com/JoeyGihoon/SEA-ME-Warmup
 
